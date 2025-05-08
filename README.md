@@ -1,38 +1,55 @@
 # 👋 Hi, I'm Qian Tang (唐骞)
 
 🧠 CS Master's @ NYU Courant  
-🎓 Former @ University of Toronto — ECE & CS  
-⚙️ Applied ML · LLM Infrastructure · Language + Reasoning + Systems
+🎓 Previously @ University of Toronto — ECE (MEng) & CS/Math/Stats (BSc)  
+🧩 LLM Infrastructure · ML Systems · Applied Model Architecture · Language x Reasoning
 
 ---
 
-## 🧩 What I Care About
+## 🌐 Who I Am
 
-I build AI systems that *don’t just predict — they decide, recover, and scale*.
+I'm an engineer–scientist hybrid working at the intersection of **foundation model research and real-world deployment**.  
+I care about building ML systems that aren’t just accurate — but **aware, adaptive, and architecturally honest**.
 
-My focus lies at the intersection of:
+In short:  
+> I build intelligent systems that help large models think clearly, serve responsibly, and evolve safely — under real-world constraints.
 
-- **NLP x Infrastructure**:  
-  Making foundation models *interactive, grounded, and latency-aware* — not just big, but usable.  
-  Think: retrieval pipelines, prompt orchestration, caching layers, and fallback logic that make LLMs feel instant.
+---
 
-- **Learning x Systems**:  
-  Designing pipelines that allow ML models to *adapt safely* — with confidence scoring, real-time feedback loops, and metrics tied to user outcomes.
+## 🧠 What I Work On
 
-- **Reasoning x Human Context**:  
-  Moving beyond pattern-matching. I'm deeply interested in models that simulate **multi-step reasoning**, **personalized interaction**, and **value-aligned behavior**.
+My focus spans three deeply interconnected tracks:
+
+### 🔧 ML Infrastructure  
+How do we serve, route, and observe LLMs at production scale?  
+I design low-latency, fault-tolerant pipelines for semantic retrieval, prompt orchestration, fallback reasoning, and caching.  
+My systems aim to make large models **feel instant, grounded, and controllable** — without compromising flexibility.
+
+### 🧬 Model Architecture  
+How do we make LLMs smarter, leaner, and more human-aligned?  
+I explore hybrid architectures:  
+- **Soft contrastive learning** to improve alignment under ambiguity  
+- **ViT and cross-modal models** for structure-aware learning  
+- **Multi-exit transformers** and **token-pruned inference paths** to reduce latency while preserving reasoning depth  
+I care about **making models more efficient not just by compression, but by structure**.
+
+### 🔁 Feedback-Driven ML  
+How do we help models learn post-deployment — from users, agents, and failure cases?  
+I design schema and pipelines for **real-time feedback**, **confidence-based escalation**, and **continuous evaluation** tied to real outcomes.  
+Think: model predictions as first drafts, and the world as its annotator.
 
 ---
 
 ## 🚧 What I'm Working Toward
 
-I’m not here to fine-tune one more leaderboard model.
+I don’t just ship models — I’m building toward:
 
-I'm here to engineer:
+- 🔎 **Interpretable, multi-stage language systems** that can reflect, reroute, or defer
+- ⚙️ **Robust AI infrastructure** where caching, degradation, and feedback are first-class citizens
+- 🧠 **Efficient model architectures** that balance latency, alignment, and reasoning
+- 🔄 **Closed-loop AI workflows** where human edits and business signals improve the next prediction
 
-- 🧠 **Trustworthy NLP systems** that understand, explain, and act in high-stakes environments;  
-- 🧩 **Composable LLM agents** that reflect human workflows, not just text completion;  
-- ⚙️ **Scalable infra** that makes those systems *resilient, cost-efficient, and measurable*.
+I want to engineer systems where models don’t just “perform”, but **adapt and justify**.
 
 ---
 
