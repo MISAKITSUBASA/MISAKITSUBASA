@@ -1,63 +1,68 @@
 # 👋 Hi, I'm Qian Tang (唐骞)
 
-🧠 CS Master's @ NYU Courant  
+🧠 M.S. in Computer Science @ NYU Courant  
 🎓 Previously @ University of Toronto — ECE (MEng) & CS/Math/Stats (BSc)  
-🧩 LLM Infrastructure · ML Systems · Applied Model Architecture · Language x Reasoning
+🔬 LLM Infrastructure · ML Systems · Model Training & Architecture · Applied Reasoning
 
 ---
 
 ## 🌐 Who I Am
 
-I'm an engineer–scientist hybrid working at the intersection of **foundation model research and real-world deployment**.  
-I care about building ML systems that aren’t just accurate — but **aware, adaptive, and architecturally honest**.
+I’m a machine learning engineer and researcher focused on making foundation models **faster, smarter, and more reliable in the real world**.  
+My work lives at the intersection of **language, reasoning, architecture design, and ML infra** — from model training to production deployment.
 
-In short:  
-> I build intelligent systems that help large models think clearly, serve responsibly, and evolve safely — under real-world constraints.
+> I build systems that help large models think clearly, serve responsibly, and improve over time.
 
 ---
 
 ## 🧠 What I Work On
 
-My focus spans three deeply interconnected tracks:
+### ⚙️ LLM Infrastructure & ML Systems  
+I design and scale latency-critical pipelines for:
+- Retrieval-augmented generation (RAG)  
+- Semantic search with FAISS and caching with Redis  
+- Prompt orchestration and confidence-based fallback  
+- Logging, routing, and escalation triggers
 
-### 🔧 ML Infrastructure  
-How do we serve, route, and observe LLMs at production scale?  
-I design low-latency, fault-tolerant pipelines for semantic retrieval, prompt orchestration, fallback reasoning, and caching.  
-My systems aim to make large models **feel instant, grounded, and controllable** — without compromising flexibility.
-
-### 🧬 Model Architecture  
-How do we make LLMs smarter, leaner, and more human-aligned?  
-I explore hybrid architectures:  
-- **Soft contrastive learning** to improve alignment under ambiguity  
-- **ViT and cross-modal models** for structure-aware learning  
-- **Multi-exit transformers** and **token-pruned inference paths** to reduce latency while preserving reasoning depth  
-I care about **making models more efficient not just by compression, but by structure**.
-
-### 🔁 Feedback-Driven ML  
-How do we help models learn post-deployment — from users, agents, and failure cases?  
-I design schema and pipelines for **real-time feedback**, **confidence-based escalation**, and **continuous evaluation** tied to real outcomes.  
-Think: model predictions as first drafts, and the world as its annotator.
+I care about systems that **degrade gracefully, respond instantly, and adapt safely**.
 
 ---
 
-## 🚧 What I'm Working Toward
+### 🧬 Model Training & Architecture  
+I don’t just deploy models — I also train and experiment with them.
 
-I don’t just ship models — I’m building toward:
+I explore:
+- **Contrastive learning** (e.g., SoftCLIP) for robust representation under ambiguity  
+- **ViT + transformer variants** for structured signal understanding and interpretability  
+- **Multi-exit and token-pruned transformers** for latency-efficient inference  
+- **LLM alignment** through prompt tuning, confidence scoring, and supervised fine-tuning
 
-- 🔎 **Interpretable, multi-stage language systems** that can reflect, reroute, or defer
-- ⚙️ **Robust AI infrastructure** where caching, degradation, and feedback are first-class citizens
-- 🧠 **Efficient model architectures** that balance latency, alignment, and reasoning
-- 🔄 **Closed-loop AI workflows** where human edits and business signals improve the next prediction
-
-I want to engineer systems where models don’t just “perform”, but **adapt and justify**.
+Whether it’s building token-efficient transformers or embedding feedback signals into the learning loop, I care deeply about **how models reason — not just what they output**.
 
 ---
 
-## 📫 Get in Touch
+### 🔁 Feedback-Aware Intelligence  
+I design systems where models improve over time through:
+- Confidence-based routing and auto-escalation  
+- Logging agent edits as implicit supervision  
+- Closed-loop ML workflows that learn from real outcomes  
+- Metric pipelines grounded in business impact (not just F1)
+
+---
+
+## 🚀 What I'm Building Toward
+
+- 🧠 Smarter architectures: models that don’t just complete prompts, but **reason, defer, and ask for help**  
+- ⚙️ Robust systems: LLM APIs that don’t fail silently, and infra that explains itself under pressure  
+- 🔄 Adaptive learning loops: pipelines where **production traffic becomes the training signal**
+
+---
+
+## 📫 Reach Me
 
 - ✉️ [qian.tang.1999@outlook.com](mailto:qian.tang.1999@outlook.com) (Work)  
 - 🎓 [qt2118@nyu.edu](mailto:qt2118@nyu.edu) (Academic)
 
 ---
 
-> *I don’t just run models. I build the systems around them that make them useful — and the feedback loops that make them better.*
+> *I train models. I deploy them. And I build the systems that help them improve.*
