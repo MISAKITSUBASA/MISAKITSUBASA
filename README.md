@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Qian Tang (唐骞)
-
+![Googler](https://shields.io)
 🧠 M.S. in Computer Science @ NYU Courant  
 🎓 Previously @ University of Toronto — ECE (MEng) & CS/Math/Stats (HBSc)  
 🔬 LLM Infrastructure · ML Systems · Model Training & Architecture · Applied Reasoning
